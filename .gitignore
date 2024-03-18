@@ -2,9 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-PipelineData/Bronze/
-PipelineData/Silver/
-PipelineData/Gold/
+# PipelineData/Bronze/
+# PipelineData/Silver/
+# PipelineData/Gold/
 
 # C extensions
 *.so
