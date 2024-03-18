@@ -10,7 +10,7 @@ The Taxi Journeys Data Pipeline is a Python-based project designed to process an
     
 4. **Deduplication and Further Silver Processing**: Duplicate records are removed from the validated data to ensure data integrity. The deduplicated data is then saved back to the "Silver" stage for additional processing.
     
-5. **Data Shaping and Gold Processing**: The processed data is shaped into meaningful insights and saved to the "Gold" stage of the pipeline. This final stage prepares the data for analysis and visualization.
+5. **Data Shaping and Gold Processing**: The processed data is shaped into meaningful insights and saved to the "Gold" stage of the pipeline. This final stage prepares the data for analysis and visualisation.
     
 
 ## Folder Structure
@@ -47,7 +47,6 @@ TaxiJourneys/
 
 - Python 3.6 or higher
 - Apache Spark
-- Jupyter Notebook (optional)
 
 ### Installation
 
@@ -62,8 +61,6 @@ TaxiJourneys/
 3. Ensure Apache Spark is installed and configured on your system. You can download Spark from the official website and follow the installation instructions provided.
 
 4. Navigate to the project directory:
-    
-    bashCopy code
     
     `cd TaxiJourneys`
     
