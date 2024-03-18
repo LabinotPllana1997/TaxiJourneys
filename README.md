@@ -33,7 +33,7 @@ TaxiJourneys/
 │   ├── step4_dedupe_and_save.py
 │   └── step5_shape_and_save_to_gold.py
 ├── RawData/
-│   ├── yellow_tripdata_2021-01
+│   ├── yellow_tripdata_2021-01.csv
 │   └── green_tripdata_2021-01.csv
 └── PipelineData/
       ├── Bronze/
