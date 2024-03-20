@@ -52,7 +52,7 @@ TaxiJourneys/
 
 1. Clone this repository to your local machine:
 
-    `git clone https://github.com/your-username/TaxiJourneys.git`
+    `git clone https://github.com/LabinotPllana1997/TaxiJourneys.git`
 
 2. Install the required dependencies using pip:
 
