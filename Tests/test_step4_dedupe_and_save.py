@@ -6,7 +6,6 @@ import sys
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col
 import os
-import pytest
 
 
 # Define the spark_session fixture

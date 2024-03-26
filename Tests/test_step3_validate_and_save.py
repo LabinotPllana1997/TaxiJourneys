@@ -3,7 +3,6 @@ from PythonCode.step3_validate_and_save import validate_and_save_to_silver
 import pytest
 import os
 import sys
-import ipytest
 
 
 # Define the spark_session fixture

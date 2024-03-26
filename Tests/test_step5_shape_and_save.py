@@ -3,7 +3,7 @@ from PythonCode.step5_shape_and_save import shape_and_save_to_gold
 import pytest
 import os
 import sys
-import ipytest
+
 
 # Define the spark_session fixture
 @pytest.fixture(scope="module")
